@@ -14,6 +14,7 @@
 		168289C62AD649E700EA87EF /* WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168289C52AD649E700EA87EF /* WeatherTests.swift */; };
 		168289D02AD649E700EA87EF /* WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168289CF2AD649E700EA87EF /* WeatherUITests.swift */; };
 		168289D22AD649E700EA87EF /* WeatherUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168289D12AD649E700EA87EF /* WeatherUITestsLaunchTests.swift */; };
+		16A6CBF12AD8673D005E1419 /* Weather Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A6CBF02AD8673D005E1419 /* Weather Button.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		168289CB2AD649E700EA87EF /* WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		168289CF2AD649E700EA87EF /* WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherUITests.swift; sourceTree = "<group>"; };
 		168289D12AD649E700EA87EF /* WeatherUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		16A6CBF02AD8673D005E1419 /* Weather Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Weather Button.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				168289B62AD649E600EA87EF /* ContentView.swift */,
 				168289B82AD649E600EA87EF /* Assets.xcassets */,
 				168289BA2AD649E600EA87EF /* Preview Content */,
+				16A6CBF02AD8673D005E1419 /* Weather Button.swift */,
 			);
 			path = Weather;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16A6CBF12AD8673D005E1419 /* Weather Button.swift in Sources */,
 				168289B72AD649E600EA87EF /* ContentView.swift in Sources */,
 				168289B52AD649E600EA87EF /* WeatherApp.swift in Sources */,
 			);
